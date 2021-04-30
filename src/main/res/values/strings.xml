@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HealthConditionPredictor</string>
+    <string name="Hint">syntomps, suntomps</string>
+</resources>
